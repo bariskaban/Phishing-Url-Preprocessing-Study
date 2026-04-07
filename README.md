@@ -146,6 +146,7 @@ Download the PhiUSIIL dataset from the [UCI ML Repository](https://archive.ics.u
 
 ```
 Phishing-Url-Preprocessing-Study/
+├── LICENSE     # MIT License
 ├── experiments.ipynb     # All preprocessing experiments, models and evaluations
 ├── project_report.pdf    # Full research paper
 └── README.md             # Project overview and documentation
@@ -167,6 +168,10 @@ If you use this work, please cite:
 ```
 
 > ArXiv preprint: _link coming soon_
+
+## License
+
+This project is licensed under the MIT License.
 
 ---
 
