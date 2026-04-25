@@ -2,11 +2,11 @@
 
 ---
 
-## 📄 Research Report
+## Research Report
 
 The full written report for this project is available in [`project_report.pdf`](./project_report.pdf).
 
-> 📖 **ArXiv preprint:** _link coming soon_
+> **TechRxiv preprint:** _link coming soon_
 
 ---
 
@@ -71,11 +71,11 @@ Min-max scaling and standardisation were also implemented from scratch and verif
 
 | Model | Sensitivity to Scale |
 |---|---|
-| Logistic Regression | ❌ Not sensitive (weights absorb scale) |
-| Linear SVM | ❌ Not sensitive |
-| **RBF-SVM** | ✅ **Critically sensitive** |
-| **k-NN** | ✅ Sensitive (metric-dependent) |
-| Naïve Bayes | ⚠️ Harmed by PCA/whitening |
+| Logistic Regression | Not sensitive (weights absorb scale) |
+| Linear SVM | Not sensitive |
+| **RBF-SVM** | **Critically sensitive** |
+| **k-NN** | Sensitive (metric-dependent) |
+| Naïve Bayes | Harmed by PCA/whitening |
 
 Hyperparameters were selected via exhaustive grid search with cross-validation on a 10,000-instance subsample, applied to the 50,000-instance evaluation set.
 
@@ -142,7 +142,7 @@ Download the PhiUSIIL dataset from the [UCI ML Repository](https://archive.ics.u
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Phishing-Url-Preprocessing-Study/
@@ -167,7 +167,7 @@ If you use this work, please cite:
 }
 ```
 
-> ArXiv preprint: _link coming soon_
+> TechRxiv preprint: _link coming soon_
 
 ## License
 
