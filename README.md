@@ -6,7 +6,7 @@
 
 The full written report for this project is available in [`project_report.pdf`](./project_report.pdf).
 
-> **TechRxiv preprint:** _link coming soon_
+> **Article Link:** (https://www.preprints.org/manuscript/202606.1345)
 
 ---
 
